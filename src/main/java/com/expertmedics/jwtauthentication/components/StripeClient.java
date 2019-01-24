@@ -10,7 +10,6 @@ import java.util.Map;
 
 
 @Component
-@Component
 public class StripeClient {
 
   @Autowired
